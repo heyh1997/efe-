@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.box1 {
+	background-color: #3F8EF9;
+	float: left;
+	width: 200px;
+	height: 800px;
+	text-align: center;
+	padding-top: 80px;
+}
+h2 {
+	color: #fff;
+	font-size: 32px;
+}
+.box2 {
+	background-color: #fff;
+	float: left;
+	width: 800px;
+	height: 800px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+h3 {
+	font-size: 30px;	
+}
+table {
+	font-size: 22px;
+}
+th,td {
+	margin:5px;
+	display: inline-block;
+}
+.all {
+	font-size: 22px;
+}

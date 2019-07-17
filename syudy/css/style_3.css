@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.box1 {
+	background-color: #666;
+	width: 1200px;
+	height: 60px;
+}
+h2 {
+	font-size: 26px;
+	line-height: 60px;
+	margin-left: 20px;
+	color: #fff;
+}
+.box2 {
+	width: 1200px;
+	height: 1200px;
+}
+.size {
+	height: 200px;
+	border-top: 1px solid #ccc;
+	margin-bottom: 1px;
+}
+h3 {
+	width: 100px;
+	height: 200px;
+	background-color: #ccc;
+	font-size: 22px;
+	float: left;
+	line-height: 60px;
+}
+.content {
+	float: left;
+}
